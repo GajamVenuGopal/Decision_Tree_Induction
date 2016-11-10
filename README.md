@@ -3,7 +3,7 @@ implemented in c++ using libraries...
 
 <b>Source Code:</b> Decision_Tree_Induction.cpp
 
-<b>Input:</b> dt.in ( file containing attributes row and tuples).
+<b>Input:</b> dt.in ( input file containing attributes row and tuples).
 
 <b>Output:</b> Level Order printing of decision tree on screen.
 
